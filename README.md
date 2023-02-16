@@ -8,3 +8,5 @@
 ### Spotify Playing 🎧
 
 [<img src="https://spotify-now-playing-sigma-azure.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31en4h5fg6ie6ponkj6lewewitte)
+
+[![Spotify](https://31en4h5fg6ie6ponkj6lewewitte.vercel.app/api/spotify)](https://open.spotify.com/user/31en4h5fg6ie6ponkj6lewewitte)
