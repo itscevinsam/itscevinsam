@@ -8,3 +8,5 @@
 ### Spotify Now Playing 🎧
 
 [<img src="https://spotify-now-playing-beta-seven.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31en4h5fg6ie6ponkj6lewewitte)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=itscevinsam.itscevinsam)
