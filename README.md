@@ -9,7 +9,11 @@
 
 </div>
 
+<hr>
+
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=itscevinsam&theme=react-dark&bg_color=050f2c&hide_border=true" />
+
+<hr>
 
 <div align="center">
 
