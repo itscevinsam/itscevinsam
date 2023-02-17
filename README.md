@@ -23,7 +23,7 @@
 
 <div align="center">
 
-#### Visitors count
+### My GitHub profile visitors count
 
 </div>
 
