@@ -4,6 +4,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-tan-gamma.vercel.app/api/top-langs/?username=itscevinsam&theme=algolia&layout=compact&langs_count=5&hide_title=true&hide_border=true" />
 </a>
-<a href="https://spotify-now-playing-xi-ten.vercel.app/now-playing?open">
-    <img src="https://spotify-now-playing-xi-ten.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
